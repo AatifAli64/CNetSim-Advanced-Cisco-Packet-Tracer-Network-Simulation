@@ -145,6 +145,5 @@ Scalable IP planning using VLSM
 It enhances practical skills in routing, subnetting, network services, and security.
 
 ## 📸 Network IMAGE
-1. **Enterprise Network**:
 ![CNETS.png](CNETS.png "enterprise_network.jpg")
 
